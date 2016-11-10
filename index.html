@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <button id=slot></button>
+</body>
+<script type="text/javascript">
+var buttons = document.getElementsByTagName('button');
+Array.prototype.slice.call(buttons, 0).forEach(function(b) {
+    b.innerText = b.id;
+    b.onclick = function() {
+        location.href = 'itms-services://?action=download-manifest&url=' +
+            'https://raw.githubusercontent.com/zyf0330/iOSIpaDeploy/master/' + b.id + '.plist';
+    }
+});
+</script>
+
+</html>

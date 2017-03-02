@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zyf0330/iOSIpaDeploy/master/fishing.ipa</string>
+					<string>http://120.77.48.203/iOSIpaDeploy/fishing.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zyf0330/iOSIpaDeploy/master/fishing.jpg</string>
+					<string>http://120.77.48.203/iOSIpaDeploy/fishing.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zyf0330/iOSIpaDeploy/master/fishing.jpg</string>
+					<string>http://120.77.48.203/iOSIpaDeploy/fishing.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
